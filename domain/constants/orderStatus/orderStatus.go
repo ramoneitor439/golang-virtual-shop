@@ -1,0 +1,6 @@
+package orderStatus
+
+const PENDING = "PENDING"
+const PROCESSING = "PROCESSING"
+const APPROVED = "APPROVED"
+const DELIVERED = "DELIVERED"
